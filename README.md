@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Matt
-- 🌱 I'm currently studying C.S. @ The Univiersity at Buffalo
+- 🌱 Currently studying C.S. @ The Univiersity at Buffalo
 - :star2: I am interested in Go, Svelte, and Web Development
